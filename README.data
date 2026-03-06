@@ -1,0 +1,78 @@
+**Data Jobs Visualization Dashboard – Power BI**
+
+**Project Overview**
+
+This project presents an interactive Data Jobs  Dashboard built using Microsoft Power BI. The dashboard analyzes trends in the data job market around the globe, including job roles, salaries, required skills, and job distribution across locations.
+
+The goal of this project is to transform raw job market data into meaningful insights that can help aspiring data professionals understand industry trends.
+
+**Objectives**
+
+Analyze demand for different data-related job roles
+
+Identify top skills required in the data industry
+
+Explore salary trends across job titles
+
+Understand geographical distribution of data jobs
+
+Provide insights for individuals pursuing a career in data analytics
+
+**Tools & Technologies Used**
+
+Microsoft Power BI
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Data Analysis Expressions)
+
+Data Modeling
+
+Interactive Data Visualization
+
+**Dashboard Features**
+
+Job role distribution analysis
+
+Median Salary comparison across different data roles
+
+Skills demand visualization
+
+Geographic job distribution
+
+Interactive filters and slicers
+
+**Dashboard Preview**
+
+
+
+<img width="1536" height="854" alt="Screenshot 2026-03-07 011215" src="https://github.com/user-attachments/assets/2a223c4f-091e-47b9-9c31-a54a7a01f320" />
+
+
+**Key Insights**
+
+Certain roles like Data Analyst and Data Scientist show high demand in the job market.
+
+Skills such as SQL, Python, and Power BI are among the most frequently required.
+
+Salary ranges vary significantly based on job role and experience.
+
+Major tech hubs show higher concentrations of data-related jobs.
+
+**How to Use**
+
+Download the .pbix file from this repository.
+
+Open it using Microsoft Power BI Desktop.
+
+Interact with the dashboard using filters and slicers to explore insights.
+
+About Me
+
+Md Najish
+
+B.Com (Hons) | Aspiring Data Analyst
+
+Gmail :- mdnajish783@gmail.com
+
+Connect Me On Linkedin :-www.linkedin.com/in/md-najish-uod3253
