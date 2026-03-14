@@ -55,11 +55,20 @@ Interactive filters and slicers
 
 Certain roles like Data Analyst and Data Scientist show high demand in the job market.
 
-Skills such as SQL, Python, and Power BI are among the most frequently required.
 
 Salary ranges vary significantly based on job role and experience.
 
-Major tech hubs show higher concentrations of data-related jobs.
+
+Machine Learning Engineer, Software Engineer, Data Engineer, Cloud Engineer, and Data Scientist are among the most in-demand roles in the data job market.
+
+Python and SQL are the most frequently required skills across data-related roles, highlighting their importance as foundational tools for data professionals.
+
+The high demand for engineering-focused roles such as Data Engineer and Cloud Engineer indicates the growing importance of data infrastructure and scalable data systems.
+
+Advanced analytics roles like Data Scientist and Machine Learning Engineer show strong demand, reflecting the increasing adoption of AI and predictive analytics in organizations.
+
+The dashboard enables dynamic exploration of job roles and skills using parameter-based filters, allowing users to analyze trends and identify key opportunities in the data industry.
+
 
 **How to Use**
 
@@ -69,13 +78,15 @@ Open it using Microsoft Power BI Desktop.
 
 Interact with the dashboard using filters and slicers to explore insights.
 
-About Me
+**About Me**
 
 Md Najish
 
 B.Com (Hons) | Aspiring Data Analyst
 
 Gmail :- mdnajish783@gmail.com
+
+Connect With Me On Linkedin :- www.linkedin.com/in/md-najish-uod3253
 
 Connect Me On Linkedin :-www.linkedin.com/in/md-najish-uod3253
 
